@@ -1,4 +1,3 @@
 # PizzaApp
 
 ### Contributors
-Mesut Asci
