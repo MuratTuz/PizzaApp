@@ -1,0 +1,11 @@
+commit fb709739e00d257c09e8fe1bf3a6539e272fc82c
+Author: Hakan Bagdat <hakan@HAKANs-MacBook-Pro.local>
+Date:   Fri Jul 30 03:15:04 2021 +0200
+
+    Ikinci Commit Mesajim
+
+commit 7698ab756aa0dd96d17894d8c2316f947f72e2b9
+Author: Hakan Bagdat <hakan@HAKANs-MacBook-Pro.local>
+Date:   Fri Jul 30 03:10:34 2021 +0200
+
+    Ilk Commit Mesajim
